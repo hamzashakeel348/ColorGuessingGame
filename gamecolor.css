@@ -1,0 +1,45 @@
+body
+{
+	background-color: #232323;
+}
+span
+{
+	color:white;
+}
+h1
+{
+	text-align: center;
+	color:white;
+	background-color: pink;
+	font-size:50px;
+}
+#spam
+{
+	background-color: purple;
+	text-align: center;
+	height: 30px;
+}
+#id
+{
+	padding-top: 20px;
+}
+#square
+{
+	width:30%;
+	background:purple;
+	padding-bottom: 30%;
+	float:left;
+	margin:1.6%;
+	border-radius: 25px;
+
+}
+.container
+{
+	padding-top: 20px;
+	max-width: 600px;
+	margin:0 auto;
+}
+.selected
+{
+	background-color: blue;
+}
